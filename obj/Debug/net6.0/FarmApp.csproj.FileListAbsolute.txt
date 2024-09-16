@@ -1,0 +1,15 @@
+D:\.NET\FarmApp\obj\Debug\net6.0\FarmApp.csproj.AssemblyReference.cache
+D:\.NET\FarmApp\obj\Debug\net6.0\FarmApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\FarmApp\obj\Debug\net6.0\FarmApp.AssemblyInfoInputs.cache
+D:\.NET\FarmApp\obj\Debug\net6.0\FarmApp.AssemblyInfo.cs
+D:\.NET\FarmApp\obj\Debug\net6.0\FarmApp.csproj.CoreCompileInputs.cache
+D:\.NET\FarmApp\bin\Debug\net6.0\FarmApp.exe
+D:\.NET\FarmApp\bin\Debug\net6.0\FarmApp.deps.json
+D:\.NET\FarmApp\bin\Debug\net6.0\FarmApp.runtimeconfig.json
+D:\.NET\FarmApp\bin\Debug\net6.0\FarmApp.dll
+D:\.NET\FarmApp\bin\Debug\net6.0\FarmApp.pdb
+D:\.NET\FarmApp\obj\Debug\net6.0\FarmApp.dll
+D:\.NET\FarmApp\obj\Debug\net6.0\refint\FarmApp.dll
+D:\.NET\FarmApp\obj\Debug\net6.0\FarmApp.pdb
+D:\.NET\FarmApp\obj\Debug\net6.0\FarmApp.genruntimeconfig.cache
+D:\.NET\FarmApp\obj\Debug\net6.0\ref\FarmApp.dll
