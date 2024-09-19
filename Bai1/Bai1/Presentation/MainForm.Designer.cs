@@ -181,7 +181,7 @@
             bt_feed.Name = "bt_feed";
             bt_feed.Size = new Size(109, 35);
             bt_feed.TabIndex = 10;
-            bt_feed.Text = "Chăn nuôi";
+            bt_feed.Text = "Nuôi";
             bt_feed.UseVisualStyleBackColor = true;
             bt_feed.Click += bt_feed_Click;
             // 
@@ -191,7 +191,7 @@
             rtb_sound.Name = "rtb_sound";
             rtb_sound.Size = new Size(493, 212);
             rtb_sound.TabIndex = 12;
-            rtb_sound.Text = "Sự im lặng của bầy gia súc";
+            rtb_sound.Text = "";
             // 
             // MainForm
             // 
@@ -214,7 +214,7 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Name = "MainForm";
-            Text = "Quản lý nông trại vật nuôi - 21521003";
+            Text = "Quản lý nông trại";
             ResumeLayout(false);
             PerformLayout();
         }
